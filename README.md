@@ -10,7 +10,7 @@ REPER a été mis sur pied dans un contexte où les solutions alternatives offer
 <br/><br/>
 <b>Cependant, l'initialisation de la base de données ne permet pas d'héberger l'ensemble des infractions présentes dans le Code de la Sécurité routière, de même que l'ensemble des infractions qui figurent parmi les règlements municipaux des municipalités que vous desservez.</b>
 
-<h3>Le Renseignement Policiers</h3>
+<h3>Le Renseignement Policier</h3>
 Pendant son développement, l'application REPER s'est dotée de nouvelles fonctionnalités telle que la page Renseignements, qui permet de sauvegarder des adresses sur une carte interactive propre à chaque utilisateur. REPER offre désormais la possibilité aux patrouilleurs d'inscrire des commentaires pour chaque lieu qui figure sur sa carte. Maintenant, tout le monde peut alimenter sa propre source de renseignements qu'il peut ensuite consulter à tout moment !
 <br/><br/>
 <b>Pour des raisons légales et éthiques, l'application ne permet PAS que ces informations soient échangées entre les utilisateurs à des fins de renseignement policier.</b>
